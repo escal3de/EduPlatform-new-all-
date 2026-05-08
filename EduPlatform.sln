@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduPlatform.Api", "EduPlatform.Api\EduPlatform.Api.csproj", "{329FC787-E5B3-4BC6-BCD9-5B642692E9CE}"
 EndProject

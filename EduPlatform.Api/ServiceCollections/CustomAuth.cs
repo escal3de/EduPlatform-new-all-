@@ -1,5 +1,4 @@
 ﻿using System.Text;
-using EduPlatform.Domain.Permissions;
 using EduPlatform.Infrastructure.Realisations.Security.Options;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace EduPlatform.Persistence.Realisations.Repositories;
 
 public class CoursesRepository(EducationDbContext dbContext) : ICoursesRepository
-{
+{   
     private readonly EducationDbContext _dbContext = dbContext;
 
     public async Task AddCourseAsync(Course course, CancellationToken cancellationToken)
